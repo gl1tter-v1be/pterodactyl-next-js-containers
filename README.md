@@ -13,4 +13,4 @@ The following Next.js versions are supported in this repository:
 
 These containers are available for use through GitHub Packages. You can access and pull the containers by visiting the link below:
 
-[Nextjs Container Packages](https://github.com/dev-ricardoneud/pterodactyl-next-js-containers/pkgs/container/pterodactyl-nextjs)
+[Nextjs Container Packages](https://github.com/ricardoneud-com/pterodactyl-next-js-containers/pkgs/container/pterodactyl-nextjs)
